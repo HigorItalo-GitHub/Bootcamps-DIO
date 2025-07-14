@@ -1,3 +1,47 @@
+"""
+
+*** Programa que inmplementa um sistema bancário simples (versão 3) para 
+registro diário de movientações financeiras básicas de um usuário.
+A nova versão implementa as ações de 'Criar Usuário (cliente) e Criar Conta Corrente,
+juntamente com as ações de saque e depósito, através do uso de classes, de maneira que
+a instanciação dessas classes viabilizem e coordenem as ações associadas à cliente e contas
+(saque, depósito e extrato de transações) desse sistema. ***
+
+As classes implementadas são:
+
+- Histórico: Classe responsável por registrar e armazenar as transações realizadas em uma conta.
+> Armazena tipo, valor e data/hora de cada operação.
+> A ser usada para gerar o extrato.
+
+- Conta: Classe base que representa uma conta bancária genérica.
+> Possui saldo, número, agência, cliente e histórico de transações.
+> Apresenta métodos que permitem operações de depósito e saque.
+
+- Conta Corrente: Classe que faz uso de herança a partir da classe Conta.
+> Se constirui como um especialização da classe Conta, com limites de saque (valor e quantidade).
+> Limita o valor individual dos saques e a quantidade por conta.
+> Sobrescreve o método sacar.
+
+- Transação: Classe abstrata que serve como interface para operações bancárias.
+> Define que todas as transações devem ter uma propriedade valor (abstrata) e um método registrar(conta) (abstrato).
+
+- Deposito: Classe que faz uso de herança a partir da classe Transação
+> Representa uma operação de depósito bancário.
+> Possui um valor e um método que executa o depósito e o registra no histórico da conta.
+
+- Saque: classe que faz uso de herança a partir da classe Transação
+> Representa uma operação de saque bancário.
+> Possui um valor e um método que executa o saque e o registra no histórico da conta.
+
+- Cliente: classe base que representa um cliente do banco.
+> Possui atributos de endereço e uma lista de contas.
+> Apresenta métodos que permitem realizar transações e adicionar contas.
+
+- Pessoa Fisica: classe que faz uso de herança a partir de classe Cliente.
+> Corresponde a um especialização da classe Cliente para pessoa física.
+> Incluie os atributos: CPF, nome e data de nascimento.
+"""
+
 from abc import ABC, abstractmethod, abstractproperty
 from datetime import datetime
 
@@ -78,7 +122,7 @@ class Conta:
 
 class ContaCorrente(Conta):
     def __init__(self, numero, cliente, limite=500, limite_saques=3):
-        super().__inti__(numero, cliente)
+        super().__init__(numero, cliente)
         self._limite = limite
         self._limite_saques = limite_saques
     

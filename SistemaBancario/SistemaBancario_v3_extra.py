@@ -1,32 +1,40 @@
 """
 
-*** Programa que inmplementa um sistema bancário simples (versão 2) para 
+*** Programa que inmplementa um sistema bancário simples (versão 3 extra) para 
 registro diário de movientações financeiras básicas de um usuário.
-A nova versão realiza as ações 'Criar Usuário (cliente) e Criar Conta Corrente.
-Juntamente com as ações de saque, depósito e extrato, todas passam a ser implemetadas e excutadas a partir de
-funções. ***
+A nova versão implementa as ações de 'Criar Usuário (cliente) e Criar Conta Corrente,
+juntamente com as ações de saque e depósito, através do uso de classes, e com inclusão de
+funcões auxiliares que viabilizam a execução do código para execução do sistema.***
 
 As operações disponíveis no sistema atual são:
 
-- Criar Usuário: Cada usuario tem como dados: nome, data de nascimento, cpf e endereço;
+- Criar Usuário: Cada usuario (cliente) tem como dados: nome, data de nascimento, cpf, endereço e conjunto de contas;
 o endereço de um usuário corresponde a uma string no formato "logradouro, nº - bairro - cidade/sigla do estado;
 O CPF armazenado de um usuário deve constar apenas de numeros (sem pontos ou hifens, caso seguem fornecidos);
-Não deve ser permitido cadastrar dois usuarios com mesmo CPF.
+Não é permitido cadastrar dois usuários com mesmo CPF.
 
 - Criar Conta Corrente: Uma conta tem como dados: nº da agência, nº da conta e usuário;
 o nº das contas são gerados de forma sequencial, partindo de 1;
 o nº da agencia é fixo e igual a "0001";
 um usuário pode possuir mais de uma conta, porém cada conta possui um único usuario associado.
 
-- Depositar: Adição de valores positivos para a conta bancária
+- Depositar: Adição de valores positivos para uma conta bancária especifica (conta '0') de um cliente cadsatrado.  
 
 - Sacar: Pemite a realização de um número pre-determinado de saques diarios (3), com um valor máximo
-também pré-definido (R$500,00). O sistema é capaz de alertar ao usuário se o limite de saques diários é 
-ultrapassado, apresentando o alerta em tela quando ocorre solicitação de saque nessa situação.
+também pré-definido (R$500,00), do saldo de uma conta existente de um cliente cadastrado, informado via CPF. 
+O sistema é capaz de alertar caso não haja um usuário com conta cadastrado, se o saque solicitado excede o 
+limite máximo predefinido ou se o limite de saques diários é ultrapassado, apresentando o alerta em 
+tela quando ocorre alguma dessas situações.
 
-- Exibir Extrato: Lista todos os depósitos e saques efetuados na conta, apresentando o saldo atual da conta.
-Em caso de não haverem sido realizadas movimentações na conta, uma mensagem informativa indicando esse situação é
-apresentada em tela quando a operação é solicitada.
+- Exibir Extrato: Lista todos os depósitos e saques efetuados em uma conta específica (conta '0') de um cliente cadastrado, 
+apresentando o saldo atual da conta. Em caso de não haverem sido realizadas movimentações na conta, 
+uma mensagem informativa indicando esse situação é apresentada em tela quando a operação é solicitada.
+
+- Exibir Contas: Exibe as contas já cadastradas no sistema, exibindo as informações de número,
+agência e nome do cliente proprietário da conta;
+
+- Exibir Usuários: Exibe os usuários (clientes) já cadastrados no sistema, exibindo as informações de nome,
+CPF, data de nascimento e endereço.
 """
 
 from abc import ABC, abstractmethod
