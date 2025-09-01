@@ -20,6 +20,7 @@ O projeto utiliza **FastAPI** como framework principal e foi implementado em um 
 ## ⚙️ Como Rodar o Projeto
 
 ### 1. Clonar o repositório
+´´´bash
 git clone https://github.com/HigorItalo-GitHub/BootcampDio.git
 cd API_TDD
 
