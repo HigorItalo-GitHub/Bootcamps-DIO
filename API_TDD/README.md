@@ -19,26 +19,29 @@ O projeto utiliza **FastAPI** como framework principal e foi implementado em um 
 
 ## ⚙️ Como Rodar o Projeto
 
-### 1. Clone o repositório
-```bash
+### 1. Clonar o repositório
 git clone https://github.com/HigorItalo-GitHub/BootcampDio.git
 cd API_TDD
 
-### 2. Crie e ative um ambiente virtual
+
+### 2. Criar e ativar um ambiente virtual
 python -m venv venv
 # Windows
 venv\Scripts\activate
 # Linux/Mac
 source venv/bin/activate
 
-### 3. Instale as dependências
+
+### 3. Instalar as dependências
 pip install -r requirements.txt
 
-### 4. Execute a aplicação
+
+### 4. Executar a aplicação
 uvicorn main:app --reload
 
 
 A API estará disponível em: http://127.0.0.1:8000
+
 
 # 🧪 Como Rodar os Testes
 pytest -v
