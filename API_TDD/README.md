@@ -23,30 +23,34 @@ O projeto utiliza **FastAPI** como framework principal e foi implementado em um 
 ```bash
 git clone https://github.com/HigorItalo-GitHub/BootcampDio.git
 cd API_TDD
-
+```
 
 ### 2. Criar e ativar um ambiente virtual
+```bash
 python -m venv venv
 # Windows
 venv\Scripts\activate
 # Linux/Mac
 source venv/bin/activate
-
+```
 
 ### 3. Instalar as dependências
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 4. Executar a aplicação
+```bash
 uvicorn main:app --reload
-
+```
 
 A API estará disponível em: http://127.0.0.1:8000
 
 
 # 🧪 Como Rodar os Testes
+```bash
 pytest -v
-
+```
 
 Durante os testes, foi utilizada uma FakeCollection para simular o banco de dados MongoDB, evitando dependências externas e garantindo a execução consistente dos testes.
 
