@@ -1,0 +1,15 @@
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\bin\Debug\net9.0\SistemaSmartphones_V1.exe
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\bin\Debug\net9.0\SistemaSmartphones_V1.deps.json
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\bin\Debug\net9.0\SistemaSmartphones_V1.runtimeconfig.json
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\bin\Debug\net9.0\SistemaSmartphones_V1.dll
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\bin\Debug\net9.0\SistemaSmartphones_V1.pdb
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.AssemblyInfoInputs.cache
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.AssemblyInfo.cs
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.csproj.CoreCompileInputs.cache
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.sourcelink.json
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.dll
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\refint\SistemaSmartphones_V1.dll
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.pdb
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\SistemaSmartphones_V1.genruntimeconfig.cache
+C:\Users\Higor\VSCode_Projects\Dio_Bootcamp\Avanade - Back-end com .NET e IA\SistemaSmartphones_V1\obj\Debug\net9.0\ref\SistemaSmartphones_V1.dll
