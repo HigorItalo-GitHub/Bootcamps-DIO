@@ -11,7 +11,7 @@ Neste desafio foram utilizados conhecimentos adquiridos no módulo de orientaç�
 Criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
 Classes criadas de acordo com o diagrama abaixo:
 
-![Diagrama classes](Imagens/diagrama.png)
+![Diagrama classes](Images/diagrama.png)
 
 ## Regras e validações
 1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
