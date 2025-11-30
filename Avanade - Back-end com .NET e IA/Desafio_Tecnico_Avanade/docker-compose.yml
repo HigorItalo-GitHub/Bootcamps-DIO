@@ -1,0 +1,59 @@
+version: '3.8'
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "YourStrong!Passw0rd"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $${SA_PASSWORD} -Q 'SELECT 1'"]
+      interval: 10s
+      retries: 10
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  auth-service:
+    build: ./auth-service
+    ports:
+      - "5100:80"
+    environment:
+      - JWT_SECRET=THIS_IS_A_DEMO_SECRET_KEY_CHANGE_ME
+      - JWT_ISSUER=demo
+    depends_on:
+      - mssql
+
+  stock-service:
+    build: ./stock-service
+    ports:
+      - "5101:80"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=mssql,1433;Database=StockDb;User Id=sa;Password=YourStrong!Passw0rd;
+      - JWT_SECRET=THIS_IS_A_DEMO_SECRET_KEY_CHANGE_ME
+    depends_on:
+      - mssql
+      - rabbitmq
+
+  sales-service:
+    build: ./sales-service
+    ports:
+      - "5102:80"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=mssql,1433;Database=SalesDb;User Id=sa;Password=YourStrong!Passw0rd;
+      - JWT_SECRET=THIS_IS_A_DEMO_SECRET_KEY_CHANGE_ME
+    depends_on:
+      - mssql
+      - rabbitmq
+
+  api-gateway:
+    build: ./api-gateway
+    ports:
+      - "5100:80"
+    depends_on:
+      - stock-service
+      - sales-service
