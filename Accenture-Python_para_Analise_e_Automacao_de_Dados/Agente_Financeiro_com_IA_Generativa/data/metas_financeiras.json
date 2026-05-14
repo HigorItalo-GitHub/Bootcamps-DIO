@@ -1,0 +1,3697 @@
+[
+  {
+    "user_id": 1,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 82196,
+        "prazo_meses": 9,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43220,
+        "prazo_meses": 28,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 68143,
+        "prazo_meses": 53,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3016,
+        "prazo_meses": 193,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 3,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 16748,
+        "prazo_meses": 213,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 12826,
+        "prazo_meses": 70,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 4,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 71009,
+        "prazo_meses": 180,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 5,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 9520,
+        "prazo_meses": 210,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 62877,
+        "prazo_meses": 92,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 70072,
+        "prazo_meses": 204,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 6,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56059,
+        "prazo_meses": 221,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 7,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 88340,
+        "prazo_meses": 11,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43749,
+        "prazo_meses": 202,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 75534,
+        "prazo_meses": 107,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 8,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 14429,
+        "prazo_meses": 154,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64226,
+        "prazo_meses": 87,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 9,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21491,
+        "prazo_meses": 214,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96525,
+        "prazo_meses": 148,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 10,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90521,
+        "prazo_meses": 70,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 80810,
+        "prazo_meses": 106,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 82578,
+        "prazo_meses": 82,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 11,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17254,
+        "prazo_meses": 214,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90532,
+        "prazo_meses": 208,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 24580,
+        "prazo_meses": 53,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 12,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43485,
+        "prazo_meses": 195,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 71412,
+        "prazo_meses": 177,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 13,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 97346,
+        "prazo_meses": 58,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96067,
+        "prazo_meses": 82,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 63820,
+        "prazo_meses": 62,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 14,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 67617,
+        "prazo_meses": 185,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 15,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 57354,
+        "prazo_meses": 80,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 16,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87602,
+        "prazo_meses": 78,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 17,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 75504,
+        "prazo_meses": 236,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 70852,
+        "prazo_meses": 216,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 18,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 61635,
+        "prazo_meses": 177,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 2214,
+        "prazo_meses": 138,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45406,
+        "prazo_meses": 91,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 19,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45839,
+        "prazo_meses": 24,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 26538,
+        "prazo_meses": 224,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 20,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 74501,
+        "prazo_meses": 131,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 28740,
+        "prazo_meses": 102,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 21,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 12881,
+        "prazo_meses": 138,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 38177,
+        "prazo_meses": 84,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 22,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 28915,
+        "prazo_meses": 154,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 23,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 23106,
+        "prazo_meses": 223,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 7553,
+        "prazo_meses": 223,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 24,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 20726,
+        "prazo_meses": 119,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 25,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56041,
+        "prazo_meses": 70,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 26,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 80509,
+        "prazo_meses": 111,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 83862,
+        "prazo_meses": 214,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 51185,
+        "prazo_meses": 232,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 27,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 2620,
+        "prazo_meses": 213,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3882,
+        "prazo_meses": 46,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 28,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25524,
+        "prazo_meses": 23,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 16861,
+        "prazo_meses": 65,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55261,
+        "prazo_meses": 73,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 29,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87089,
+        "prazo_meses": 71,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 39255,
+        "prazo_meses": 23,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 30,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66772,
+        "prazo_meses": 220,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 31,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64865,
+        "prazo_meses": 154,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 63345,
+        "prazo_meses": 125,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 32,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 28723,
+        "prazo_meses": 14,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 33535,
+        "prazo_meses": 130,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 88329,
+        "prazo_meses": 236,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 33,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45420,
+        "prazo_meses": 84,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 34,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 32283,
+        "prazo_meses": 127,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 63457,
+        "prazo_meses": 13,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 35,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64220,
+        "prazo_meses": 33,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 36,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 4098,
+        "prazo_meses": 198,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 79672,
+        "prazo_meses": 106,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55333,
+        "prazo_meses": 171,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 37,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 71423,
+        "prazo_meses": 44,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 36421,
+        "prazo_meses": 180,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 38,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56268,
+        "prazo_meses": 136,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 79610,
+        "prazo_meses": 147,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92472,
+        "prazo_meses": 128,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 39,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17447,
+        "prazo_meses": 106,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 40,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21545,
+        "prazo_meses": 80,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 76350,
+        "prazo_meses": 207,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 41,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 53482,
+        "prazo_meses": 171,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31121,
+        "prazo_meses": 216,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 35722,
+        "prazo_meses": 29,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 42,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 89747,
+        "prazo_meses": 156,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 43,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 94332,
+        "prazo_meses": 124,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84312,
+        "prazo_meses": 34,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 44,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17292,
+        "prazo_meses": 28,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31383,
+        "prazo_meses": 15,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 40028,
+        "prazo_meses": 29,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 45,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 5841,
+        "prazo_meses": 186,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 57313,
+        "prazo_meses": 200,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 46,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 18443,
+        "prazo_meses": 136,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 12991,
+        "prazo_meses": 219,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 47,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3473,
+        "prazo_meses": 178,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 48,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 33210,
+        "prazo_meses": 88,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66516,
+        "prazo_meses": 88,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 5889,
+        "prazo_meses": 219,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 49,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90882,
+        "prazo_meses": 76,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 50,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 47870,
+        "prazo_meses": 146,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 68203,
+        "prazo_meses": 147,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 51,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 91073,
+        "prazo_meses": 223,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 52,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21654,
+        "prazo_meses": 136,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43903,
+        "prazo_meses": 40,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 53,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 51572,
+        "prazo_meses": 180,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31105,
+        "prazo_meses": 8,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 54,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 26322,
+        "prazo_meses": 6,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 7560,
+        "prazo_meses": 140,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 95835,
+        "prazo_meses": 57,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 55,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 32740,
+        "prazo_meses": 147,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 80311,
+        "prazo_meses": 51,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 49365,
+        "prazo_meses": 15,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 56,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96761,
+        "prazo_meses": 91,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 57,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17101,
+        "prazo_meses": 133,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 58,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 89241,
+        "prazo_meses": 106,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 38170,
+        "prazo_meses": 41,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 59,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66930,
+        "prazo_meses": 49,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 63188,
+        "prazo_meses": 34,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 27673,
+        "prazo_meses": 10,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 60,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 95585,
+        "prazo_meses": 93,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 34541,
+        "prazo_meses": 149,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 61,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 59942,
+        "prazo_meses": 197,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 88780,
+        "prazo_meses": 139,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86674,
+        "prazo_meses": 234,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 62,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 6506,
+        "prazo_meses": 131,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 63,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 78123,
+        "prazo_meses": 209,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17600,
+        "prazo_meses": 85,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22801,
+        "prazo_meses": 69,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 64,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 5606,
+        "prazo_meses": 132,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84816,
+        "prazo_meses": 204,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 65,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 26475,
+        "prazo_meses": 135,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 66,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21011,
+        "prazo_meses": 200,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86195,
+        "prazo_meses": 216,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22309,
+        "prazo_meses": 6,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 67,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 85728,
+        "prazo_meses": 186,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 68,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 67422,
+        "prazo_meses": 142,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 69,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 19830,
+        "prazo_meses": 71,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 78066,
+        "prazo_meses": 13,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22395,
+        "prazo_meses": 172,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 70,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 20056,
+        "prazo_meses": 112,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90082,
+        "prazo_meses": 125,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 38190,
+        "prazo_meses": 164,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 71,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 51278,
+        "prazo_meses": 129,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92643,
+        "prazo_meses": 128,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 72,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 91504,
+        "prazo_meses": 63,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 73,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3395,
+        "prazo_meses": 55,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 74,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 30722,
+        "prazo_meses": 205,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 75,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 94176,
+        "prazo_meses": 142,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 76,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8711,
+        "prazo_meses": 50,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 77,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 5096,
+        "prazo_meses": 10,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 78,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 98955,
+        "prazo_meses": 70,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 78000,
+        "prazo_meses": 227,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 33963,
+        "prazo_meses": 30,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 79,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22494,
+        "prazo_meses": 140,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 4212,
+        "prazo_meses": 201,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 80,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 2080,
+        "prazo_meses": 169,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 83641,
+        "prazo_meses": 77,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 81,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 79038,
+        "prazo_meses": 76,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17473,
+        "prazo_meses": 9,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 35019,
+        "prazo_meses": 84,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 82,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 37820,
+        "prazo_meses": 131,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 83,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25220,
+        "prazo_meses": 121,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43425,
+        "prazo_meses": 177,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 84,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45783,
+        "prazo_meses": 135,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 85,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 11857,
+        "prazo_meses": 27,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17995,
+        "prazo_meses": 18,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84446,
+        "prazo_meses": 238,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 86,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 81974,
+        "prazo_meses": 191,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 13211,
+        "prazo_meses": 111,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 87,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56371,
+        "prazo_meses": 65,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 88,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45112,
+        "prazo_meses": 110,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 89,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46752,
+        "prazo_meses": 225,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 81840,
+        "prazo_meses": 91,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45788,
+        "prazo_meses": 145,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 90,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96278,
+        "prazo_meses": 84,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 24437,
+        "prazo_meses": 135,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 53076,
+        "prazo_meses": 124,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 91,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22348,
+        "prazo_meses": 166,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55021,
+        "prazo_meses": 223,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 92,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 89552,
+        "prazo_meses": 42,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 41484,
+        "prazo_meses": 13,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 93,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 38260,
+        "prazo_meses": 45,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 81731,
+        "prazo_meses": 191,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 30605,
+        "prazo_meses": 37,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 94,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 6580,
+        "prazo_meses": 220,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 40643,
+        "prazo_meses": 191,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 95,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87173,
+        "prazo_meses": 214,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 73805,
+        "prazo_meses": 132,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 85292,
+        "prazo_meses": 181,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 96,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 73153,
+        "prazo_meses": 36,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87078,
+        "prazo_meses": 53,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66839,
+        "prazo_meses": 66,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 97,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87426,
+        "prazo_meses": 33,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 99383,
+        "prazo_meses": 185,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 98,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 18116,
+        "prazo_meses": 142,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 99,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3124,
+        "prazo_meses": 169,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92310,
+        "prazo_meses": 211,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 100,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46177,
+        "prazo_meses": 190,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 60330,
+        "prazo_meses": 62,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 79653,
+        "prazo_meses": 89,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 101,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86447,
+        "prazo_meses": 216,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 82144,
+        "prazo_meses": 191,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 62517,
+        "prazo_meses": 27,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 102,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25945,
+        "prazo_meses": 53,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 103,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92815,
+        "prazo_meses": 102,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 104,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86177,
+        "prazo_meses": 96,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 105,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25111,
+        "prazo_meses": 164,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 62600,
+        "prazo_meses": 108,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 39038,
+        "prazo_meses": 193,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 106,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8897,
+        "prazo_meses": 35,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 15892,
+        "prazo_meses": 85,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25815,
+        "prazo_meses": 50,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 107,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17267,
+        "prazo_meses": 98,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66527,
+        "prazo_meses": 153,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 108,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8235,
+        "prazo_meses": 187,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 99075,
+        "prazo_meses": 55,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 34902,
+        "prazo_meses": 99,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 109,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 65558,
+        "prazo_meses": 31,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8771,
+        "prazo_meses": 125,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 110,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 93604,
+        "prazo_meses": 156,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84251,
+        "prazo_meses": 216,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66873,
+        "prazo_meses": 182,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 111,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 11057,
+        "prazo_meses": 71,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 20995,
+        "prazo_meses": 161,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92628,
+        "prazo_meses": 119,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 112,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 97572,
+        "prazo_meses": 179,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3673,
+        "prazo_meses": 80,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 24466,
+        "prazo_meses": 64,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 113,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 51406,
+        "prazo_meses": 110,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 14665,
+        "prazo_meses": 40,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 114,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 36797,
+        "prazo_meses": 36,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 26046,
+        "prazo_meses": 24,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 115,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 14222,
+        "prazo_meses": 150,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 19095,
+        "prazo_meses": 168,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86550,
+        "prazo_meses": 197,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 116,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21600,
+        "prazo_meses": 168,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46097,
+        "prazo_meses": 116,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 117,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 47971,
+        "prazo_meses": 22,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 118,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 75647,
+        "prazo_meses": 190,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 119,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 10404,
+        "prazo_meses": 109,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 61598,
+        "prazo_meses": 101,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 120,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 69591,
+        "prazo_meses": 19,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3682,
+        "prazo_meses": 88,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 121,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22832,
+        "prazo_meses": 107,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 77882,
+        "prazo_meses": 49,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 73725,
+        "prazo_meses": 137,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 122,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 65442,
+        "prazo_meses": 167,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 123,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 48498,
+        "prazo_meses": 125,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 62477,
+        "prazo_meses": 26,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 80453,
+        "prazo_meses": 143,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 124,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 72303,
+        "prazo_meses": 236,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 88802,
+        "prazo_meses": 149,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 125,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 19006,
+        "prazo_meses": 209,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 126,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 68551,
+        "prazo_meses": 160,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92903,
+        "prazo_meses": 230,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46650,
+        "prazo_meses": 112,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 127,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 15035,
+        "prazo_meses": 35,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 128,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 85156,
+        "prazo_meses": 86,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 129,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 7829,
+        "prazo_meses": 95,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 130,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 74927,
+        "prazo_meses": 130,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 41667,
+        "prazo_meses": 56,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31543,
+        "prazo_meses": 82,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 131,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 47902,
+        "prazo_meses": 234,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 59745,
+        "prazo_meses": 114,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 60119,
+        "prazo_meses": 59,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 132,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25464,
+        "prazo_meses": 138,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 49785,
+        "prazo_meses": 188,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 133,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 50223,
+        "prazo_meses": 224,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 134,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92788,
+        "prazo_meses": 21,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 81140,
+        "prazo_meses": 25,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 69578,
+        "prazo_meses": 52,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 135,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 78228,
+        "prazo_meses": 170,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 17693,
+        "prazo_meses": 11,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 19261,
+        "prazo_meses": 188,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 136,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 67330,
+        "prazo_meses": 12,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 41160,
+        "prazo_meses": 7,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 28032,
+        "prazo_meses": 65,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 137,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96326,
+        "prazo_meses": 147,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 29365,
+        "prazo_meses": 139,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8248,
+        "prazo_meses": 23,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 138,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 50616,
+        "prazo_meses": 213,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 41883,
+        "prazo_meses": 37,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 8450,
+        "prazo_meses": 115,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 139,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 32817,
+        "prazo_meses": 196,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 140,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56779,
+        "prazo_meses": 86,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 141,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 16457,
+        "prazo_meses": 77,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 21886,
+        "prazo_meses": 62,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 142,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 98427,
+        "prazo_meses": 91,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 1947,
+        "prazo_meses": 28,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 143,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 33322,
+        "prazo_meses": 39,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 144,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 10808,
+        "prazo_meses": 178,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 145,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 73534,
+        "prazo_meses": 20,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84576,
+        "prazo_meses": 83,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 9998,
+        "prazo_meses": 23,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 146,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 12167,
+        "prazo_meses": 26,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 77289,
+        "prazo_meses": 102,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 147,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 66898,
+        "prazo_meses": 132,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 87540,
+        "prazo_meses": 131,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 51637,
+        "prazo_meses": 61,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 148,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 40963,
+        "prazo_meses": 69,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 95929,
+        "prazo_meses": 197,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 149,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64528,
+        "prazo_meses": 233,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 150,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 96063,
+        "prazo_meses": 89,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 151,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64308,
+        "prazo_meses": 187,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 64172,
+        "prazo_meses": 177,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 152,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 81659,
+        "prazo_meses": 83,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 153,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43103,
+        "prazo_meses": 30,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92665,
+        "prazo_meses": 44,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 154,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 18189,
+        "prazo_meses": 181,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 91875,
+        "prazo_meses": 123,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 10616,
+        "prazo_meses": 206,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 155,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 14107,
+        "prazo_meses": 226,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 156,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92787,
+        "prazo_meses": 88,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46434,
+        "prazo_meses": 132,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 88091,
+        "prazo_meses": 84,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 157,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 53799,
+        "prazo_meses": 13,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 158,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 57063,
+        "prazo_meses": 206,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 18868,
+        "prazo_meses": 203,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 159,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 80794,
+        "prazo_meses": 186,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 79513,
+        "prazo_meses": 204,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 160,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84749,
+        "prazo_meses": 173,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 11223,
+        "prazo_meses": 44,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 161,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 60526,
+        "prazo_meses": 123,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56235,
+        "prazo_meses": 40,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 162,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31755,
+        "prazo_meses": 69,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 20416,
+        "prazo_meses": 110,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 47996,
+        "prazo_meses": 117,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 163,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 6639,
+        "prazo_meses": 53,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 164,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 30427,
+        "prazo_meses": 186,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 165,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 65666,
+        "prazo_meses": 24,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 166,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 4889,
+        "prazo_meses": 184,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 49226,
+        "prazo_meses": 109,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90449,
+        "prazo_meses": 117,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 167,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 3631,
+        "prazo_meses": 144,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 168,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 65471,
+        "prazo_meses": 218,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 48664,
+        "prazo_meses": 171,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 15407,
+        "prazo_meses": 12,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 169,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55348,
+        "prazo_meses": 67,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84100,
+        "prazo_meses": 43,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 170,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92987,
+        "prazo_meses": 166,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 171,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55862,
+        "prazo_meses": 28,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 172,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 29004,
+        "prazo_meses": 226,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 61167,
+        "prazo_meses": 91,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 173,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 84969,
+        "prazo_meses": 238,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 174,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 92057,
+        "prazo_meses": 70,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 175,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 95791,
+        "prazo_meses": 32,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 176,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 89290,
+        "prazo_meses": 139,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 60819,
+        "prazo_meses": 88,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 4729,
+        "prazo_meses": 125,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 177,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25346,
+        "prazo_meses": 140,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 178,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 7955,
+        "prazo_meses": 112,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 45293,
+        "prazo_meses": 158,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 179,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 41403,
+        "prazo_meses": 207,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 70786,
+        "prazo_meses": 18,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 18279,
+        "prazo_meses": 71,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 180,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 55240,
+        "prazo_meses": 29,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 39187,
+        "prazo_meses": 111,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 181,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 68969,
+        "prazo_meses": 61,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 7858,
+        "prazo_meses": 86,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 182,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 62455,
+        "prazo_meses": 230,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 183,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 48458,
+        "prazo_meses": 196,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 184,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 59841,
+        "prazo_meses": 145,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 185,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 37059,
+        "prazo_meses": 224,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46906,
+        "prazo_meses": 202,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 186,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 22352,
+        "prazo_meses": 160,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 40386,
+        "prazo_meses": 121,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 187,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 86504,
+        "prazo_meses": 97,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 188,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25398,
+        "prazo_meses": 188,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 76801,
+        "prazo_meses": 217,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 189,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 31624,
+        "prazo_meses": 222,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 190,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 53979,
+        "prazo_meses": 163,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 191,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 52798,
+        "prazo_meses": 16,
+        "prioridade": "alta"
+      },
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 77421,
+        "prazo_meses": 16,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 192,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25331,
+        "prazo_meses": 199,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 193,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 47326,
+        "prazo_meses": 41,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 194,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 43597,
+        "prazo_meses": 12,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 195,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 42751,
+        "prazo_meses": 200,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 90541,
+        "prazo_meses": 71,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 98869,
+        "prazo_meses": 46,
+        "prioridade": "alta"
+      }
+    ]
+  },
+  {
+    "user_id": 196,
+    "metas": [
+      {
+        "tipo": "longo_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 46406,
+        "prazo_meses": 18,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 15219,
+        "prazo_meses": 87,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 197,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25276,
+        "prazo_meses": 53,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 198,
+    "metas": [
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 56735,
+        "prazo_meses": 45,
+        "prioridade": "media"
+      }
+    ]
+  },
+  {
+    "user_id": 199,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 27567,
+        "prazo_meses": 113,
+        "prioridade": "baixa"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 23560,
+        "prazo_meses": 28,
+        "prioridade": "media"
+      },
+      {
+        "tipo": "curto_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 69149,
+        "prazo_meses": 58,
+        "prioridade": "baixa"
+      }
+    ]
+  },
+  {
+    "user_id": 200,
+    "metas": [
+      {
+        "tipo": "medio_prazo",
+        "descricao": "Meta financeira autom\u00e1tica",
+        "valor_objetivo": 25496,
+        "prazo_meses": 107,
+        "prioridade": "baixa"
+      }
+    ]
+  }
+]
