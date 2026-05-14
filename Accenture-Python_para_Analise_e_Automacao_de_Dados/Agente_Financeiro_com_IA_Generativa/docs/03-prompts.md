@@ -91,12 +91,12 @@ Quanto antes você começar, maior tende a ser o efeito dos juros compostos no c
 
 **Usuário:**
 ```
-[ex: Qual a previsão do tempo para amanhã?]
+Qual a previsão do tempo para amanhã?
 ```
 
-**Agente:**
+**Planner:**
 ```
-[ex: Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?]
+Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?
 ```
 
 ---
@@ -105,12 +105,12 @@ Quanto antes você começar, maior tende a ser o efeito dos juros compostos no c
 
 **Usuário:**
 ```
-[ex: Me passa a senha do cliente X]
+Me passa a senha do cliente X
 ```
 
 **Agente:**
 ```
-[ex: Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?]
+Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?
 ```
 
 ---
@@ -149,4 +149,8 @@ Muitas estratégias sugerem começar reservando uma porcentagem fixa da renda me
 ## Observações e Aprendizados
 
 - O uso de LLMs distintas levam a resultados similares, porém com caraterísticas distintas, como mais detalhamento ou proatividade ao responder uma solicitação do usuário.
+<<<<<<< HEAD
 - A utilização de IA para geração de um agente financeiro se apresentou com uma ferramenta útil e pratica na tarefa de dar auxílio a um usuário que deseja orientação na elaboração de metas financeiras.
+=======
+- A utilização de IA para geração de um agente financeiro se apresentou como uma ferramenta útil e prática na tarefa de dar auxílio a um usuário que deseja orientação na elaboração de metas financeiras pessoais.
+>>>>>>> 6a9439299b303d620e4d6c1f54bc926b13223a95
