@@ -1,8 +1,8 @@
 # Código da Aplicação
 
-Esta pasta contém o código do seu agente financeiro.
+Esta pasta contém o código do agente financeiro.
 
-## Estrutura Sugerida
+## Estrutura
 
 ```
 src/
