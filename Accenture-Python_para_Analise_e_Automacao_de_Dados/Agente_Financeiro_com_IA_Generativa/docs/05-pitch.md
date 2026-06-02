@@ -1,44 +1,116 @@
-# Pitch (3 minutos)
+# Pitch — Planner IA: Assistente Inteligente de Planejamento Financeiro
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
+## 1. O Problema
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+Muitas pessoas enfrentam dificuldades para organizar suas finanças, definir metas realistas e compreender sua própria situação financeira.
 
-[Sua descrição aqui]
+Grande parte das soluções disponíveis é complexa, pouco acessível ou exige conhecimentos técnicos em finanças. Como consequência, muitas pessoas:
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+- acumulam dívidas;
+- não conseguem formar uma reserva de emergência;
+- tomam decisões financeiras impulsivas;
+- não sabem por onde começar seu planejamento financeiro.
 
-[Sua descrição aqui]
+Diante desse cenário, surge a necessidade de transformar dados financeiros em orientações simples, acessíveis e personalizadas.
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+---
 
-[Descreva o que será mostrado]
+## 2. A Solução
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+O **Planner IA** é um agente inteligente de planejamento financeiro desenvolvido para auxiliar usuários na organização e tomada de decisões financeiras.
 
-[Sua descrição aqui]
+A solução foi construída utilizando:
+
+- Python;
+- Streamlit;
+- Ollama;
+- Modelos de Linguagem (LLMs) executados localmente.
+
+O sistema utiliza dados financeiros estruturados em arquivos `.csv` e `.json`, contendo informações sobre:
+
+- perfis financeiros;
+- transações;
+- metas financeiras.
+
+Com base nesses dados, o agente é capaz de:
+
+- analisar renda, despesas, dívidas e reservas financeiras;
+- responder perguntas relacionadas à situação financeira do usuário;
+- sugerir prioridades financeiras;
+- auxiliar na definição de metas;
+- oferecer recomendações alinhadas ao perfil financeiro informado.
+
+O projeto foi desenvolvido com foco em:
+
+- privacidade dos dados;
+- segurança;
+- explicabilidade das respostas;
+- execução local, sem dependência de APIs externas pagas.
+
+Além disso, foram desenvolvidos:
+
+- datasets fictícios;
+- exemplos *Few-Shot*;
+- casos de teste (*Edge Cases*);
+- avaliações para validação do comportamento do agente.
+
+---
+
+## 3. Demonstração
+
+Durante a demonstração do projeto é possível observar:
+
+### Interface
+
+- aplicação desenvolvida em Streamlit;
+- seleção de usuários a partir do dataset financeiro.
+
+### Exemplos de Perguntas
+
+- "Qual deve ser minha prioridade financeira?"
+- "Como posso organizar melhor minhas finanças?"
+- "Devo investir ou quitar minhas dívidas?"
+
+### Funcionamento
+
+O agente consulta os dados financeiros do usuário e produz respostas contextualizadas com base em seu perfil.
+
+Também são demonstrados:
+
+- recuperação correta das informações financeiras;
+- recomendações personalizadas;
+- tratamento de perguntas fora do escopo;
+- reconhecimento de informações inexistentes.
+
+Todo o processamento é realizado localmente por meio do Ollama, sem necessidade de serviços externos.
+
+---
+
+## 4. Diferenciais e Impacto
+
+O principal diferencial do Planner IA é combinar:
+
+- Inteligência Artificial local;
+- privacidade dos dados;
+- planejamento financeiro personalizado.
+
+A solução pode ser adaptada para diferentes contextos, incluindo:
+
+- educação financeira;
+- suporte bancário;
+- orientação financeira básica;
+- plataformas de gestão financeira.
+
+O impacto esperado é democratizar o acesso a orientações financeiras mais claras, acessíveis e responsáveis, especialmente para pessoas que enfrentam dificuldades na organização de suas finanças.
+
+Além disso, o projeto demonstra a viabilidade da integração de modelos LLM executados localmente em aplicações reais desenvolvidas com ferramentas *open source*.
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
-
----
-
-## Link do Vídeo
-
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+- ✅ Duração máxima de 3 minutos
+- ✅ Problema claramente definido
+- ✅ Solução demonstrada na prática
+- ✅ Diferencial apresentado
+- ✅ Boa qualidade de áudio e vídeo
